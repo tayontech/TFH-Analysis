@@ -1,0 +1,1 @@
+This repository contains my exploratory data analysis (EDA) and insights derived from the "Take Home Data Analysis" exercise. The goal of this project is to demonstrate my analytical thinking, data exploration strategies, and ability to extract meaningful insights from raw data, with a focus on security-relevant findings where applicable.
